@@ -1,4 +1,4 @@
-The Odin Project first true project concerning HTML.
+The Odin Project first true project concerning Web development but only using HTML.
 
 https://www.theodinproject.com/lessons/foundations-recipes#setting-up-your-projects-github-repository
 
