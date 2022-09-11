@@ -1,7 +1,16 @@
 .number1{
-
+background-color: black;
+color: white;
 }
 
-.number2{
-    
+.numbersize{
+font-size: 24px;
+}
+
+.numbersize2{
+    font-size: 30px;
+}
+
+.numbersize3{
+    font-size: 14px;
 }
